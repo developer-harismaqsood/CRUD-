@@ -1,0 +1,36 @@
+.logo-name {
+    margin-left: 15px;
+    font-size: 22px;
+    color: #fff;
+}
+
+span.footer-text {
+    width: 200px;
+    margin: 0 auto;
+}
+
+.sidebar
+{
+    height: 108%;
+} 
+
+.page-content
+{
+    height: 1500px;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+}
+
+.page-content .content-wrapper .content-inner{
+    height: 60%;
+}
+
+.page-content .content-wrapper{
+   height: 65%;
+}
